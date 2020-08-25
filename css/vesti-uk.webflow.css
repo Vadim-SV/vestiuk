@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 img {
@@ -246,6 +246,8 @@ img {
 
 .background {
   position: static;
+  border-radius: 8px;
+  box-shadow: 5px 6px 3px 0 #bcbcbc;
 }
 
 .message1 {
